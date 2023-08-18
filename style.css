@@ -1,0 +1,172 @@
+@media (min-width: 768px) {
+    /* Styles for tablets and larger screens */
+}
+
+@media (min-width: 992px) {
+    /* Styles for desktops and larger screens */
+}
+
+
+.COMING{
+  font-size:4pc;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #333;
+  margin-top: 2%;
+
+}
+
+.from{
+  color: rgb(216, 136, 6);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  
+  
+  
+}
+
+.Building{
+  font-size: xx-large;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding: 20px;
+  
+  
+}
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  /* margin: 10%; */
+}
+
+
+
+#countdown {
+  font-size: 148px;
+  margin-top: 50px;
+}
+
+#countdown div {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#countdown span {
+  display: inline-block;
+  font-size: 4pc;
+  padding: 5px;
+  margin: 5px;
+}
+
+.text {
+  /* background-color: #090909; */
+  font-size: 50px;
+  color: #faf9f9;
+  TEST
+  
+}
+
+#countdown {
+color:rgb(250, 189, 6);
+font-family:'Franklin Gothic Medium','Arial Narrow', Arial, sans-serif;
+font-size: xx-large;
+border-radius: 30px;
+/* padding: 40px (001); */
+margin: 100px;
+background-color:#070707;
+opacity: 69.0%;
+
+
+}
+
+
+
+.links li a img {
+  transition: transform 0.1s;
+}
+
+.links li a:hover img {
+  transform: scale(3.2);
+  
+}
+
+/*====================== test line row================= */
+
+.links {
+  text-align: center;
+  padding: 2px;
+  margin: 5px;
+}
+
+.links ul {
+  list-style-type: none;
+  
+}
+
+.links li {
+  display: inline-block;
+  /* margin-right: 0px; */
+}
+/* 
+.links li:last-child {
+  margin-right: 0;
+} */
+
+
+
+
+
+
+/* =================form===================== */
+
+
+.form{
+  margin-bottom: 25%;
+ 
+}
+
+.mb-3{
+  color: rgb(6, 6, 5);
+  font-size: large;
+  padding: 5px;
+  padding-left: 40%;
+  padding-right: 40%;
+
+  
+
+ 
+  
+  
+  
+  
+  
+  
+
+}
+
+
+.address{
+  color: rgb(199, 33, 4)
+}
+
+/* .button{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: rgb(14, 10, 10);
+  background-color: #ea9b08;
+  font-size: x-large;
+  border-radius: 4px;
+  cursor:pointer;
+  border:none;
+  box-shadow:0px 2px 4px rgba(0,0,0, 0.2); 
+  
+} */
+
+
+
+
+
+
+
+
+
